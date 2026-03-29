@@ -1,0 +1,3 @@
+﻿  1.c
+C:\C++_text\aemis\20260329\1.c(16,12): warning C4305: “初始化”: 从“double”到“float”截断
+  20260329.vcxproj -> C:\C++_text\aemis\20260329\x64\Debug\20260329.exe
