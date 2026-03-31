@@ -1,2 +1,5 @@
 ﻿  1.c
-  20260330.vcxproj -> C:\C++_text\aemis\20260330\x64\Debug\20260330.exe
+C:\C++_text\aemis\20260330\1.c(241,11): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+C:\C++_text\aemis\20260330\1.c(241,11): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+C:\C++_text\aemis\20260330\1.c(244,8): error C2059: 语法错误:“else”
+C:\C++_text\aemis\20260330\1.c(246,5): error C2181: 没有匹配 if 的非法 else 
