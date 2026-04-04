@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C\u002B\u002B_text\\aemis\\20260404\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFA8B83-E8B4-46E9-B892-A02E51B18C9A}|20260404.vcxproj|C:\\C\u002B\u002B_text\\aemis\\20260404\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEFA8B83-E8B4-46E9-B892-A02E51B18C9A}|20260404.vcxproj|solutionrelative:1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1.c",
+              "DocumentMoniker": "C:\\C\u002B\u002B_text\\aemis\\20260404\\1.c",
+              "RelativeDocumentMoniker": "1.c",
+              "ToolTip": "C:\\C\u002B\u002B_text\\aemis\\20260404\\1.c",
+              "RelativeToolTip": "1.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-04T15:11:13.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

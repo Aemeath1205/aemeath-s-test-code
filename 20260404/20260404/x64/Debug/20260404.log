@@ -1,0 +1,4 @@
+﻿  1.c
+C:\C++_text\aemis\20260404\1.c(45,6): warning C4101: “b”: 未引用的局部变量
+C:\C++_text\aemis\20260404\1.c(43,6): warning C4101: “i”: 未引用的局部变量
+  20260404.vcxproj -> C:\C++_text\aemis\20260404\x64\Debug\20260404.exe
